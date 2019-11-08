@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{76CF3B26-A0BE-A014-5442-F2C8CA9273FB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Partical.cs">
+    <Files>
+      <File FileName="Assets/Partical.cs" Line="69" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity3d-particalSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Partical.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="255f7c23-6b72-44e7-a2b1-d98c526a0c75" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
